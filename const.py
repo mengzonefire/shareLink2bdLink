@@ -1,7 +1,7 @@
 '''
 Author: mengzonefire
 Date: 2023-01-05 14:50:05
-LastEditTime: 2023-03-24 16:40:10
+LastEditTime: 2023-03-24 16:49:20
 LastEditors: mengzonefire
 Description: 存放全局常量
 '''
@@ -13,7 +13,7 @@ version = 'v1.0.2'
 date = '23.3.24'
 
 ua_web = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36'
-ua_dl = 'netdisk;2.2.51.6;netdisk;10.0.63;PC;android-android;QTP/1.0.32.2'
+ua_dl = 'netdisk;'
 tpl_url = 'https://pan.baidu.com/share/tplconfig?fields=sign,timestamp&channel=chunlei&web=1&app_id=250528&clienttype=0&surl={surl}&logid={logid}'
 sharedownload_url = 'https://pan.baidu.com/api/sharedownload?channel=chunlei&clienttype=12&web=1&app_id=250528&sign={sign}&timestamp={timestamp}'
 verify_url = 'http://pan.baidu.com/share/verify?app_id=250528&channel=chunlei&clienttype=0&surl={surl}&web=1&bdstoken={bdstoken}'
