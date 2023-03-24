@@ -22,4 +22,4 @@ http协议发送json数据 { 'sharelink': 'https://<span></span>pan.baidu.com/s/
 
 # preview
 
-<img src="https://i.ibb.co/PjTNmz0/1-RL-G-IH2-JGZK966-LC-JZ23.png">
+<img src="https://i.ibb.co/6mS4jg8/1-RL-G-IH2-JGZK966-LC-JZ23.png">
