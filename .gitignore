@@ -1,5 +1,7 @@
 venv
+.vscode
 .history
+baidu_cookie.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
